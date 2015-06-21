@@ -7,5 +7,5 @@ But setting an environment for that is a little hard. Hope this Docker image mak
 ## Usage
 
 ```sh
-$ docker pull/r-jekyll
+$ docker pull yutannihilation/r-jekyll
 ```
